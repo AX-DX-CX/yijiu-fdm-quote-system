@@ -1,0 +1,20 @@
+﻿{
+  "name": "壹久科技FDM工业制造报价系统",
+  "short_name": "壹久报价系统",
+  "description": "FDM工业制造报价、多零件核算、报废率及工业特殊要求计算",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./index.html",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#e9edf0",
+  "theme_color": "#111820",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
