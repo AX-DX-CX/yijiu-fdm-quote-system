@@ -1,4 +1,4 @@
-﻿const CACHE = 'yijiu-fdm-quote-v32-auth-watermark';
+﻿const CACHE = 'yijiu-fdm-quote-v33-subtle-trace';
 const CORE_FILES = [
   './',
   './index.html',
@@ -66,6 +66,7 @@ self.addEventListener('fetch', event => {
     })
   );
 });
+
 
 
 
